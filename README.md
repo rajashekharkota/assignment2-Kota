@@ -28,3 +28,10 @@ This table shows food and drinks available at different places.
 |Pizza|Domino's|$6|
 |Coke|Student union canteen|$1|
 |Burger|Burger King|$2|
+----
+# Pithy Quotes
+> I may not be happy all the times,
+But, I smile to make somepeople to be happy.
+- *Rajashekhar Kota*
+> The purpose of our live is to be happy.
+- *Dalai lama*
