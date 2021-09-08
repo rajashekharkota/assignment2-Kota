@@ -10,3 +10,9 @@ _____
    2. Book a cab from your present location to nearest airport
    3. Reach airport in time.
    4. Checkin.
+
+List of iteams:
+* Cloths.
+* Money.
+  * currency of your destination country.
+* Electronic gadgets.
