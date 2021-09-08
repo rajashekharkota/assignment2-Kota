@@ -18,3 +18,13 @@ List of iteams:
 * Electronic gadgets.
 
 **[AboutMe](AboutMe.md)**
+____
+# Food and Drinks
+This table shows food and drinks available at different places.
+
+|Food|Location|Cost|
+|---|---|---| 
+|Chicken Biryani|Bawarchi biryani center|$30|
+|Pizza|Domino's|$6|
+|Coke|Student union canteen|$1|
+|Burger|Burger King|$2|
