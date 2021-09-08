@@ -16,3 +16,5 @@ List of iteams:
 * Money.
   * currency of your destination country.
 * Electronic gadgets.
+
+**[AboutMe](AboutMe.md)**
